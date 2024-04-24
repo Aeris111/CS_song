@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains total 100 song lyrics with annotation information
+This repository contains lyrics for total 100 songs from Ultimate Song Chart Awards Presentation Top5 between 2004-2023. The text corpus is munually annotated with code-switching information. 
 
 - alternate between cantaonese to non-cantonese language 
 
