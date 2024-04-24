@@ -55,4 +55,6 @@ Metadatas are included in the same file.
 
 abcabc
 
-## Notes
+## Significance and further applications
+- Cultural Preservation and Transmission
+- Reproduction/Recreation (manual, AI)
