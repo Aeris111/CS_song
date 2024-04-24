@@ -53,7 +53,7 @@ Metadatas are included in the same file.
 
 ### (reason of source choice?)
 
-abcabc
+About the rank source choice, is unified list of award-winners over the years has been planned.
 
 ## Significance and further applications
 - Cultural Preservation and Transmission
