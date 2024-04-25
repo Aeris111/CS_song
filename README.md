@@ -20,11 +20,11 @@ Data in this files is for marking annotation and counting words, from each line 
 
 | Column | Explanation | 
 | ---    | --- | 
-| song ID | lyric lines in a song have the same ID  | 
-| lyric ID | ID number represents for the line number |
-| Lyrics | defghij |
-| Word count in sentence | defghij |
-| Total word count | defghij |
+| song ID | Lyric lines within a song have the same song ID  | 
+| lyric ID | Number in ID represents the line number |
+| Lyrics | Lyric in one line, marked with tags (if applicable)  |
+| Word count in sentence | Total number of words in the line, all languages ​​are counted |
+| Total word count | Total number of words in whole lyric, all languages ​​are counted |
 | English exist in sentence | defghij |
 | Eng word count in sentence | defghij |
 | English exist in sentence | defghij |
