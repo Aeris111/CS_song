@@ -18,21 +18,21 @@ Data in this files is for marking annotation and counting words, from each line 
 | Column | Explanation | 
 | ---    | --- | 
 | song ID | Lyric lines within a song have the same song ID  | 
-| lyric ID | Number in ID represents the line number |
+| lyric ID | Number in the lyric ID represents the line number |
 | Lyrics | Lyric in one line, marked with tags (if applicable)  |
-| Word count in sentence | Total number of words in the line, all languages ​​are counted |
-| Total word count | Total number of words in whole lyric, all languages ​​are counted |
-| English exist in sentence | The existence or non-existence of English word is indicated by True/False |
-| Eng word count in sentence | defghij |
-| Total Eng word count | defghij |
+| Word count in sentence |  Number of words in this line, all languages ​​are counted |
+| Total word count | Number of words in whole lyric, all languages ​​are counted |
+| English exist in sentence | The presence or absence of English word in this line is indicated by True/False |
+| Eng word count in sentence | number of English words in this line |
+| Total Eng word count | Total number of English words in whole lyric  |
 | Eng % in sentence | defghij |
 | Eng % in whole | defghij |
-| Spoken exist in sentence | defghij |
-| Spoken word count in sentence | The existence or non-existence of Spoken word(Cantonese) is indicated by True/False |
+| Spoken exist in sentence | The presence or absence of Spoken word(Cantonese) is indicated by True/False |
+| Spoken word count in sentence | defghij |
 | Total Spoken word count | defghij |
 | Spoke % in sentence | defghij |
 | Spoken % in whole| defghij |
-| Putonghua exist in sentence| The existence or non-existence of Putonghua is indicated by True/False |
+| Putonghua exist in sentence| The presence or absence of Putonghua is indicated by True/False |
 																																
 ### __data/metadata.tsv__
 Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/(sheet1).tsv` will be omitted.  
@@ -43,12 +43,12 @@ Data in this files is for analysation and counting ratio of code-switching featu
 | song title | the title of song |
 | lyricist | name(s) of lyricist |
 | Total word count | - |
-| English exist in whole | The existence or non-existence of English word in the whole lyric is indicated by True/False |
+| English exist in whole | The presence or absence of English word in the whole lyric is indicated by True/False |
 | Total Eng word count | - |
 | Eng % in whole | - |
 | Total Spoken word count | - |
 | Spoken % in whole | - |
-| Putonghua exist in whole | The existence or non-existence of Putonghua in the song is indicated by True/False  |
+| Putonghua exist in whole | The presence or absence of Putonghua in the song is indicated by True/False  |
 | both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False." |
 										
 
