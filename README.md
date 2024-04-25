@@ -19,7 +19,7 @@ All files are in the Tab-separated values (TSV) format.
 - Some columns exist in both files.
 > ⚠️ if you find the data/sheet1.tsv is unreadable, please open the Google Sheet link for further information: https://docs.google.com/spreadsheets/d/1y_eLNm7-UIKgZxkuh_jCYRUEbTs9os2CQSA62DQrIh4/edit?usp=sharing
 
-### __data/(sheet1).tsv__
+### __data/sheet1.tsv__
 Data in this files is for marking annotation and counting words, from each line of lyric(the basic unit) to the whole lyric.
 
 | Column | Explanation | 
@@ -42,7 +42,7 @@ Data in this files is for marking annotation and counting words, from each line 
 | Putonghua exist in sentence| The presence or absence of Putonghua is indicated by True/False |
 																																
 ### __data/metadata.tsv__
-Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/(sheet1).tsv` will be omitted.  
+Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/sheet1.tsv` will be omitted.  
 
 | Column  | Explanation | 
 | ---    | --- | 
@@ -83,10 +83,13 @@ Data in this files is for analysation and counting ratio of code-switching featu
 ## Organization of the data
 
 - basic unit: a single line of lyric
-- columns (e.g.song ID, lyric ID) > easy to search
-- song id: 'S' + 'yy' + ranking
-    > e.g. S10-1 represent the song which is the first place in 2010
-- remove symbols represent to repeated line
+- we add song ID and lyric ID for each row of data to convenient searching: 
+    - song ID is Composed from: 'S' + 'yy' + #(a number representing rank of the song)
+        > e.g. S10-1 represent the song which is the first place in 2010
+    - lyric ID is Composed from: 'L' + #(a number)
+        > e.g. L11 represent the 11th line of lyric
+- we remove symbols which are represent of repeated parts of lyric, instead those parts will be filled up with the lyric which is actually sung in the song
+
 
 ### Organisation of Metadata 
 
