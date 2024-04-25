@@ -12,9 +12,25 @@ abc
 ```
 ## Description
 
-The file is in the Tab-separated values (TSV) format.
-Metadatas are included in the same file.
+All files are in the Tab-separated values (TSV) format.
+
+### data/(sheet1).tsv
+| Column | explanation | 
+| ---    | --- | 
+| song ID | lyric lines in a song have the same ID  | 
+| lyric ID | ID number represents for the line number |
+| abc | defghij |
+| abc | defghij |
+| abc | defghij |
+| abc | defghij |
 						
+### data/metadata.tsv
+| Column  | Content | 
+| ---    | --- | 
+| abc | defghij |
+| abc | defghij |
+| abc | defghij |
+
 ## Annotation Tags
 
 | tag | mark for | example | 
