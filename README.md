@@ -10,7 +10,8 @@ The default for code-switching is to alternate between Cantonese and non-Cantone
 ## Description
 
 All files are in the Tab-separated values (TSV) format.
-Some columns exist in both files.
+- Some columns exist in both files.
+- Spoken words refer to Cantonese.
 
 ### __data/(sheet1).tsv__
 Data in this files is for marking annotation and counting words, from each line of lyric(the basic unit) to the whole lyric.
@@ -27,11 +28,11 @@ Data in this files is for marking annotation and counting words, from each line 
 | Total Eng word count | Number of English words in the whole song  |
 | Eng % in sentence | Ratio of English words exists in this line |
 | Eng % in whole | Ratio of English words exists in the whole song |
-| Spoken exist in sentence | The presence or absence of Spoken word(Cantonese) is indicated by True/False |
-| Spoken word count in sentence | defghij |
-| Total Spoken word count | defghij |
-| Spoke % in sentence | defghij |
-| Spoken % in whole| defghij |
+| Spoken exist in sentence | The presence or absence of Spoken word is indicated by True/False |
+| Spoken word count in sentence | Number of Spoken words in this line |
+| Total Spoken word count | Number of spoken words in the whole song |
+| Spoke % in sentence | Ratio of spoken words exists in this line |
+| Spoken % in whole| Ratio of spoken words exists in the whole song |
 | Putonghua exist in sentence| The presence or absence of Putonghua is indicated by True/False |
 																																
 ### __data/metadata.tsv__
@@ -49,7 +50,7 @@ Data in this files is for analysation and counting ratio of code-switching featu
 | Total Spoken word count | - |
 | Spoken % in whole | - |
 | Putonghua exist in whole | The presence or absence of Putonghua in the song is indicated by True/False  |
-| both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False." |
+| both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False |
 										
 
 ## Annotation Tags
