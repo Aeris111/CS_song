@@ -27,7 +27,6 @@ Data in this files is for marking annotation and counting words, from each line 
 | Total word count | Total number of words in whole lyric, all languages ​​are counted |
 | English exist in sentence | defghij |
 | Eng word count in sentence | defghij |
-| English exist in sentence | defghij |
 | Total Eng word count | defghij |
 | Eng % in sentence | defghij |
 | Eng % in whole | defghij |
@@ -37,7 +36,7 @@ Data in this files is for marking annotation and counting words, from each line 
 | Spoke % in sentence | defghij |
 | Spoken % in whole| defghij |
 | Putonghua exist in sentence| defghij |
-																		
+																																		
 ### __data/metadata.tsv__
 Data in this files is for analysation and counting ratio of code-switching features existed.
 
