@@ -68,7 +68,7 @@ Data in this files is for analysation and counting ratio of code-switching featu
 >In casual and informal expressions, tends to be more dynamic.
 #### definition of English words:
 
-> There are some English characters written in the lyrics that do not have lexical meaning. we have differentiated them into two class in our collection: Some of them are defined as onomatopoeia, as they are clearly pronunced as a single sound, and these are counted as english words in our guidelines; while some are defined as snort or grunt, which are pronunced relatively slower and longer, and these are not counted as english word.
+> There are some English characters written in the lyrics that do not have lexical meaning. we have differentiated them into two class in our collection: Some of them are defined as onomatopoeia, as they are clearly pronunced as a single sound, and these are counted as English words in our guidelines; while some are defined as snort or grunt, which are pronunced relatively slower and longer, and these are not counted as English word.
 
 
   
