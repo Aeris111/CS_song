@@ -18,6 +18,7 @@ Due to the representation of public preferences, we have decided to collect the 
 
 All files are in the Tab-separated values (TSV) format.
 - Some columns exist in both files.
+⚠️if you find the data/sheet1.tsv is unreadable, please download the data/sheet1.zip and unzip it to have further information.
 
 ### __data/(sheet1).tsv__
 Data in this files is for marking annotation and counting words, from each line of lyric(the basic unit) to the whole lyric.
