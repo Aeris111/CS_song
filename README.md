@@ -96,9 +96,8 @@ Data in this files is for analysation and counting ratio of code-switching featu
 - when there are multiple participants in the '*singer*' and '*lyricist*' column, participants are separated by a comma.
     > e.g. 李克勤 (Hacken Lee),容祖兒 (Joey Yung)
 
-### (reason of metadata choice?)
-
-- to distinguish song from others which have the same title 
+### Reason of Metadata choices
+- Names of singers and lyricists included in our metadata file to distinguish song from others which have the same title
 
 ## Source
 
