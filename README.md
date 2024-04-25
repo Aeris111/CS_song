@@ -36,6 +36,33 @@ Metadatas are included in the same file.
     > e.g. S10-1 represent the song which is the first place in 2010
 - remove symbols represent to repeated line
 
+### Columns
+
+word count: to count the words in that sentence 
+
+Total word count: to know how many words in that song
+English exist in sentences: Through the formula (=checkFormat()), we can know if there is English word in the sentence 
+
+English word no. : Through the formula (=countEnglishWords()), we can know how many English words in the sentence
+
+Total English word count: Through the formula (sum()), we can know the total English words used in that song
+
+English % in sentence: Through the formula (IF()), we can know that the percentage of the English words used in that sentence 
+
+English % in whole song: Through the formulation (IF()), we can know that the percentage of the English words used in that song 
+
+Spoken exist in sentence: Through the formula (checkFormat2()), we can know that if there is spoken words(Cantonese) in that sentence 
+
+Spoken word no. : Through the formula(countTextInsideDoubleBraces(), we can know how many spoken words(Cantonese) in that sentence
+
+Total Spoken word count: Through the formula(sum()), we can know the total spoken words(Cantonese) in that song
+
+Spoke % in sentence: Through the formula(if()), we can know the percentage of using spoken words(Cantonese) in that sentence 
+
+Spoke % in whole: Through the formula(if()), we can know the percentage of using spoken words(Cantonese) in the whole song
+
+Putonghua exist in sentence: Through the formula(checkFormat3(F2)), we can know if  Putonghua exists in the sentence
+
 ### Metadata list
 
 - singer name, lyricist name
