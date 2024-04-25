@@ -35,9 +35,9 @@ All files are in the Tab-separated values (TSV) format.
 
 | tag | mark for | example | 
 | ---   | --- | ---    |
-| (((text))) | English | ``abc`` |
-| {{text}} | Spoken language | ``abc``|
-| [[[text]]] | Putonghua | ``abc`` |
+| (((text))) | English | ``蔑視一棟一劃一捺 (((sorry)))一律不值得`` |
+| {{text}} | Spoken language | ``忘掉有{{幾多}}虧欠 只想有些歡笑嘴臉``|
+| [[[text]]] | Putonghua | ``[[[那些年錯過的愛情]]]`` |
 
 ## Notes on annotation guidelines
 
