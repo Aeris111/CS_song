@@ -25,17 +25,17 @@ Data in this files is for marking annotation and counting words, from each line 
 | Lyrics | Lyric in one line, marked with tags (if applicable)  |
 | Word count in sentence | Total number of words in the line, all languages ​​are counted |
 | Total word count | Total number of words in whole lyric, all languages ​​are counted |
-| English exist in sentence | defghij |
+| English exist in sentence | The existence or non-existence of English word is indicated by True/False |
 | Eng word count in sentence | defghij |
 | Total Eng word count | defghij |
 | Eng % in sentence | defghij |
 | Eng % in whole | defghij |
 | Spoken exist in sentence | defghij |
-| Spoken word count in sentence | defghij |
+| Spoken word count in sentence | The existence or non-existence of Spoken word(Cantonese) is indicated by True/False |
 | Total Spoken word count | defghij |
 | Spoke % in sentence | defghij |
 | Spoken % in whole| defghij |
-| Putonghua exist in sentence| defghij |
+| Putonghua exist in sentence| The existence or non-existence of Putonghua is indicated by True/False |
 																																
 ### __data/metadata.tsv__
 Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/(sheet1).tsv` will be omitted.  
