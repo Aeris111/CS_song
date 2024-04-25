@@ -30,7 +30,7 @@ Data in this files is for marking annotation and counting words, from each line 
 | English exist in sentence | defghij |
 | Total Eng word count | defghij |
 | Eng % in sentence | defghij |
-| EEng % in whole | defghij |
+| Eng % in whole | defghij |
 | Spoken exist in sentence | defghij |
 | Spoken word count in sentence | defghij |
 | Total Spoken word count | defghij |
