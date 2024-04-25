@@ -6,6 +6,7 @@
 This repository contains lyrics for total 100 songs from Ultimate Song Chart Awards Presentation Top5 between 2004-2023. All lyrics utilize texts posted on KKBOX, which contains more than 90 million songs with lyrics. The text corpus is munually annotated with code-switching information. 
 
 The default for code-switching is to alternate between Cantonese and non-Cantonese languages.
+## Decision of the scope
 
 ## Description
 
@@ -81,10 +82,9 @@ Data in this files is for analysation and counting ratio of code-switching featu
     > e.g. S10-1 represent the song which is the first place in 2010
 - remove symbols represent to repeated line
 
-### Metadata list
+### Organisation of Metadata 
 
-- singer name, lyricist name
-- when there are multiple participants...
+- when there are multiple participants in the '*singer*' and '*lyricist*' column, participants are separated by a comma.
     > e.g. 李克勤 (Hacken Lee),容祖兒 (Joey Yung)
 
 ### (reason of metadata choice?)
@@ -93,8 +93,9 @@ Data in this files is for analysation and counting ratio of code-switching featu
 
 ## Source
 
-- [KKbox](https://www.kkbox.com/tw/tc/search/lyrics)
-- [rank](https://www.lemonmusic.com.hk/awards.htm) 
+- the ranking: [rank](https://www.lemonmusic.com.hk/awards.htm)
+- Lyric, metadata: [KKbox](https://www.kkbox.com/tw/tc/search/lyrics)
+ 
 
 ### (reason of source choice?)
 
