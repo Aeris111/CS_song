@@ -42,6 +42,7 @@ Data in this files is for analysation and counting ratio of code-switching featu
 | ---    | --- | 
 | song ID | - |
 | song title | the title of song |
+| singer | name of singer(s) |
 | lyricist | name of lyricist(s) |
 | Total word count | - |
 | English exist in whole | The presence or absence of English word in the whole lyric is indicated by True/False |
