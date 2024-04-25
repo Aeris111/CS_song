@@ -64,8 +64,9 @@ Data in this files is for analysation and counting ratio of code-switching featu
 ## Notes on annotation guidelines
 
 - definition of spoken language
-  In casual and informal expressions, tends to be more dynamic
+- In casual and informal expressions, tends to be more dynamic.
 - definition of English
+- As some lyris maybe is onomatopoeia, like 'ha', 'oh'. And some are whole sentences and words.
   
 
 ## Organization of the data
