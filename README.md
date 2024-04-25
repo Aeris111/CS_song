@@ -101,11 +101,11 @@ Data in this files is for analysation and counting ratio of code-switching featu
 
 ## Source
 
-- the ranking: `Ultimate Song Chart Awards Presentation` from [LemonMusic](https://www.lemonmusic.com.hk/awards.htm)
+- The ranking: `Ultimate Song Chart Awards Presentation` from [LemonMusic](https://www.lemonmusic.com.hk/awards.htm)
 - Lyric, metadata: [KKbox](https://www.kkbox.com/tw/tc/search/lyrics)
  
 
-### reason of source choice
+### Reason of source choice
 1. **LemonMusic**
 > The ranking of Top5 songs from each year is listed in a clear way which helps us to built up the beginning organisation of data effectively.
 2. **KKbox**
