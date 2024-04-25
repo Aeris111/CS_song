@@ -13,23 +13,48 @@ abc
 ## Description
 
 All files are in the Tab-separated values (TSV) format.
+Some columns exist in both files.
 
-### data/(sheet1).tsv
-| Column | explanation | 
+### __data/(sheet1).tsv__
+Data in this files is for marking annotation and counting words, from each line of lyric(the basic unit) to the whole lyric.
+
+| Column | Explanation | 
 | ---    | --- | 
 | song ID | lyric lines in a song have the same ID  | 
 | lyric ID | ID number represents for the line number |
-| abc | defghij |
-| abc | defghij |
-| abc | defghij |
-| abc | defghij |
-						
-### data/metadata.tsv
-| Column  | Content | 
+| Lyrics | defghij |
+| Word count in sentence | defghij |
+| Total word count | defghij |
+| English exist in sentence | defghij |
+| Eng word count in sentence | defghij |
+| English exist in sentence | defghij |
+| Total Eng word count | defghij |
+| Eng % in sentence | defghij |
+| EEng % in whole | defghij |
+| Spoken exist in sentence | defghij |
+| Spoken word count in sentence | defghij |
+| Total Spoken word count | defghij |
+| Spoke % in sentence | defghij |
+| Spoken % in whole| defghij |
+| Putonghua exist in sentence| defghij |
+																		
+### __data/metadata.tsv__
+Data in this files is for analysation and counting ratio of code-switching features existed.
+
+| Column  | Explanation | 
 | ---    | --- | 
-| abc | defghij |
-| abc | defghij |
-| abc | defghij |
+| song ID | defghij |
+| song title | defghij |
+| lyricist | defghij |
+| Total word count | defghij |
+| English exist in whole | defghij |
+| Total Eng word count | defghij |
+| Eng % in whole | defghij |
+| Total Spoken word count | defghij |
+| Spoken % in whole | defghij |
+| Putonghua exist in whole | defghij |
+| both eng and spoken | defghij |
+										
 
 ## Annotation Tags
 
