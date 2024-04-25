@@ -43,16 +43,16 @@ Data in this files is for analysation and counting ratio of code-switching featu
 | Column  | Explanation | 
 | ---    | --- | 
 | song ID | - |
-| song title | defghij |
-| lyricist | defghij |
+| song title | the title of song |
+| lyricist | name(s) of lyricist |
 | Total word count | - |
-| English exist in whole | defghij |
+| English exist in whole | The existence or non-existence of English word in the whole lyric is indicated by True/False |
 | Total Eng word count | - |
 | Eng % in whole | - |
 | Total Spoken word count | - |
 | Spoken % in whole | - |
-| Putonghua exist in whole | defghij |
-| both eng and spoken | defghij |
+| Putonghua exist in whole | The existence or non-existence of Putonghua in the song is indicated by True/False  |
+| both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False." |
 										
 
 ## Annotation Tags
