@@ -36,21 +36,21 @@ Data in this files is for marking annotation and counting words, from each line 
 | Spoke % in sentence | defghij |
 | Spoken % in whole| defghij |
 | Putonghua exist in sentence| defghij |
-																																		
+																																
 ### __data/metadata.tsv__
-Data in this files is for analysation and counting ratio of code-switching features existed.
+Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/(sheet1).tsv` will be omitted.  
 
 | Column  | Explanation | 
 | ---    | --- | 
-| song ID | defghij |
+| song ID | - |
 | song title | defghij |
 | lyricist | defghij |
-| Total word count | defghij |
+| Total word count | - |
 | English exist in whole | defghij |
-| Total Eng word count | defghij |
-| Eng % in whole | defghij |
-| Total Spoken word count | defghij |
-| Spoken % in whole | defghij |
+| Total Eng word count | - |
+| Eng % in whole | - |
+| Total Spoken word count | - |
+| Spoken % in whole | - |
 | Putonghua exist in whole | defghij |
 | both eng and spoken | defghij |
 										
