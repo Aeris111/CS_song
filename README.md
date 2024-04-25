@@ -10,9 +10,8 @@ between Cantonese and non-Cantonese languages.
 
 ## Decision of the scope of collection
 
-```txt
 Due to the representation of public preferences, we have decided to collect the lyrics of the top 5 songs from each year. We specifically chose popular songs from the past 20 years because there have been significant shifts in pop music trends during this period. By focusing on these recent years, we expect to identifying more obvious change that will assist in the further analysis.
-```
+
 
 ## Description
 
