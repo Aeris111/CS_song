@@ -114,12 +114,10 @@ Data in this files is for analysation and counting ratio of code-switching featu
 ## Significance 
 ### Cultural Preservation and Transmission
 
-```txt
-The significant use of code-switching language in Hong Kong culture is reflected in Cantopop songs, which serve as a cultural representation and showcase certain mainstream values of Hong Kong. Thus, analyzing these songs can aid in the preservation of cultural of Hong Kong.
-```
+-The significant use of code-switching language in Hong Kong culture is reflected in Cantopop songs, which serve as a cultural representation and showcase certain mainstream values of Hong Kong. Thus, analyzing these songs can aid in the preservation of cultural of Hong Kong.
+
 ### Further utilizations: 
+
 Reproduction/Recreation (manual, AI)
 
-```txt
- Cantopop songs can be recreated by future generations as a nostalgic style, drawing inspiration from the data collected. Furthermore, the data can serve as a valuable resource for AI creation. The utilize of information in our collection, such as the percentage of English words used in Cantopop songs or the word classes of English words used in the lyrics, aid AI to recreate more realistic Cantopop songs. 
-```
+ - Cantopop songs can be recreated by future generations as a nostalgic style, drawing inspiration from the data collected. Furthermore, the data can serve as a valuable resource for AI creation. The utilize of information in our collection, such as the percentage of English words used in Cantopop songs or the word classes of English words used in the lyrics, aid AI to recreate more realistic Cantopop songs. 
