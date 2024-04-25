@@ -21,12 +21,12 @@ Data in this files is for marking annotation and counting words, from each line 
 | lyric ID | Number in the lyric ID represents the line number |
 | Lyrics | Lyric in one line, marked with tags (if applicable)  |
 | Word count in sentence |  Number of words in this line, all languages ​​are counted |
-| Total word count | Number of words in whole lyric, all languages ​​are counted |
+| Total word count | Number of words in the whole song, all languages ​​are counted |
 | English exist in sentence | The presence or absence of English word in this line is indicated by True/False |
-| Eng word count in sentence | number of English words in this line |
-| Total Eng word count | Total number of English words in whole lyric  |
-| Eng % in sentence | defghij |
-| Eng % in whole | defghij |
+| Eng word count in sentence | Number of English words in this line |
+| Total Eng word count | Number of English words in the whole song  |
+| Eng % in sentence | Ratio of English words exists in this line |
+| Eng % in whole | Ratio of English words exists in the whole song |
 | Spoken exist in sentence | The presence or absence of Spoken word(Cantonese) is indicated by True/False |
 | Spoken word count in sentence | defghij |
 | Total Spoken word count | defghij |
