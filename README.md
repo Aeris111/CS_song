@@ -42,7 +42,9 @@ All files are in the Tab-separated values (TSV) format.
 ## Notes on annotation guidelines
 
 - definition of spoken language
-- definition of English (words or Onomatopoeia?)
+  In casual and informal expressions, tends to be more dynamic
+- definition of English
+  
 
 ## Organization of the data
 
@@ -69,7 +71,7 @@ All files are in the Tab-separated values (TSV) format.
 
 ### (reason of source choice?)
 
-About the rank source choice, is unified list of award-winners over the years has been planned.
+the rank source choice, is unified list of award-winners over the years has been planned.
 
 ## Significance and further applications
 - Cultural Preservation and Transmission
