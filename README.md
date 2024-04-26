@@ -60,7 +60,7 @@ Data stored in this files is for analysation and counting ratio of code-switchin
 | both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False |
 
 ### __data/sheet1_code.tsv__										
-The data in this file is exactly the same as the data in `data/sheet1.tsv`, except that most of the values are calculated programmatically by specific codes. (Due to file size limitations on GitHub, it is not possible to showcase the complete set of calculated values in this file.)
+Data in this file is exactly the same as the data in `data/sheet1.tsv`, except that most of the values are calculated programmatically by specific codes. (Due to file size limitations on GitHub, it is not possible to showcase the complete set of calculated values in this file.)
 
 ## Annotation Tags
 
