@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains lyrics for total 100 songs from Ultimate Song Chart Awards Presentation Top5 between 2004-2023. All lyrics utilize texts posted on KKBOX, which contains more than 90 million songs with lyrics. The text corpus is munually annotated with code-switching information. 
+This repository contains a total of 100 sets of lyrics, which are sourced from the Top 5 songs announced during the Ultimate Song Chart Awards Presentation between 2004 and 2023. All the lyrics have been collected from KKBOX, a website that provides a vast collection of over 90 million songs, including lyrics. In our data collection, we have manually marked annotations, primarily focusing on the languages used in the lyrics.
 
 The default for code-switching is to alternate 
 between Cantonese and non-Cantonese languages.
