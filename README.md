@@ -82,13 +82,17 @@ There are some English characters written in the lyrics that do not have lexical
 
 ## Organization of the data
 
-- basic unit: a single line of lyric
-- we add song ID and lyric ID for each row of data to convenient searching: 
+Basic unit: a single line of lyric</br>
+
+1. We add song ID and lyric ID for each row of data to convenient searching: 
+
     - song ID is Composed from: 'S' + 'yy' + #(a number representing rank of the song)
         > e.g. S10-1 represent the song which is the first place in 2010
+
     - lyric ID is Composed from: 'L' + #(a number)
         > e.g. L11 represent the 11th line of lyric
-- we remove symbols which are represent of repeated parts of lyric, instead those parts will be filled up with the lyric which is actually sung in the song
+
+2. We remove symbols (`*`) which are represent of repeated parts of lyric, instead those parts will be filled up with the lyric which is actually sung in the song.
 
 
 ### Organisation of Metadata 
@@ -97,7 +101,8 @@ There are some English characters written in the lyrics that do not have lexical
     > e.g. 李克勤 (Hacken Lee),容祖兒 (Joey Yung)
 
 ### Reason of Metadata choices
-- Names of singers and lyricists included in our metadata file to distinguish song from others which have the same title
+
+- Names of singers and lyricists included in our metadata file to distinguish song from others which have the same title.
 
 ## Source
 
