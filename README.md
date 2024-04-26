@@ -16,8 +16,8 @@ Due to the representation of public preferences, we have decided to collect the 
 ## Description
 
 All files are in the Tab-separated values (TSV) format.
-- Some columns exist in both files.
-> ⚠️ if you find the data/sheet1.tsv is unreadable, please open the Google Sheet link for further information: https://docs.google.com/spreadsheets/d/1y_eLNm7-UIKgZxkuh_jCYRUEbTs9os2CQSA62DQrIh4/edit?usp=sharing
+- Some columns exist in more than one file.
+
 
 ### __data/sheet1.tsv__
 Data stored in these files is used for marking annotations and counting words in each line of lyric(the basic unit), as well as in the whole lyric.
@@ -58,7 +58,9 @@ Data stored in this files is for analysation and counting ratio of code-switchin
 | Spoken % in whole | - |
 | Putonghua exist in whole | The presence or absence of Putonghua in the song is indicated by True/False  |
 | both eng and spoken | The presence or absence in both Chinese and English is indicated by True/False |
-										
+
+### __data/metadata_code.tsv__										
+The data in this file is exactly the same as the data in `data/sheet1.tsv`, except that most of the values are calculated programmatically by specific codes. (Due to file size limitations on GitHub, it is not possible to showcase the complete set of calculated values in this file.)
 
 ## Annotation Tags
 
