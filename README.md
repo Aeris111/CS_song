@@ -20,7 +20,7 @@ All files are in the Tab-separated values (TSV) format.
 > ⚠️ if you find the data/sheet1.tsv is unreadable, please open the Google Sheet link for further information: https://docs.google.com/spreadsheets/d/1y_eLNm7-UIKgZxkuh_jCYRUEbTs9os2CQSA62DQrIh4/edit?usp=sharing
 
 ### __data/sheet1.tsv__
-Data in this files is for marking annotation and counting words, from each line of lyric(the basic unit) to the whole lyric.
+Data stored in these files is used for marking annotations and counting words in each line of lyric(the basic unit), as well as in the whole lyric.
 
 | Column | Explanation | 
 | ---    | --- | 
@@ -42,7 +42,7 @@ Data in this files is for marking annotation and counting words, from each line 
 | Putonghua exist in sentence| The presence or absence of Putonghua is indicated by True/False |
 																																
 ### __data/metadata.tsv__
-Data in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/sheet1.tsv` will be omitted.  
+Data stored in this files is for analysation and counting ratio of code-switching features existed. Explanation of columns which are also existed in `data/sheet1.tsv` will be omitted.  
 
 | Column  | Explanation | 
 | ---    | --- | 
