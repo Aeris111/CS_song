@@ -17,6 +17,7 @@ Due to the representation of public preferences, we have decided to collect the 
 
 All files are in the Tab-separated values (TSV) format.
 - Some columns exist in more than one file.
+- Most values stores in our files are calculated programmatically by specific codes, you can find these codes in this Google Sheet link for references: https://docs.google.com/spreadsheets/d/1y_eLNm7-UIKgZxkuh_jCYRUEbTs9os2CQSA62DQrIh4/edit?usp=sharing
 
 
 ### __data/sheet1.tsv__
