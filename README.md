@@ -8,6 +8,18 @@ This repository contains a total of 100 sets of lyrics, which are sourced from t
 The default for code-switching is to alternate 
 between Cantonese and non-Cantonese languages.
 
+## Significance 
+### Cultural Preservation and Transmission
+
+Pop songs can serve as mediums that reflect culture and showcase certain mainstream values of the local community, and Cantopop songs are no exception. Moreover, the annotations marked in the data help in better understanding the characteristics of Cantopop songs. Therefore, we believe that our collection can contribute to the preservation of Hong Kong's culture to some extent.
+
+### Further utilizations: 
+
+Reproduction/Recreation (manual, AI):
+
+ Cantopop songs can be recreated by future generations as a nostalgic style, drawing inspiration from the data collected. Furthermore, the data can serve as a valuable resource for AI creation. The utilize of information in our collection, such as the percentage of English words used in Cantopop songs or the word classes of English words used in the lyrics, aid AI to recreate more realistic Cantopop songs. 
+
+
 ## Decision of the scope of collection
 
 Due to the representation of public preferences, we have decided to collect the lyrics of the top 5 songs from each year. We specifically chose popular songs from the past 20 years because there have been significant shifts in pop music trends during this period. By focusing on these recent years, we expect to identifying more obvious change that will assist in the further analysis.
@@ -80,7 +92,7 @@ Spoken language refer to Cantonese words. However, especially in the lyric, ther
 There are some English characters written in the lyrics that do not have lexical meaning. we have differentiated them into two class in our collection: Some of them are defined as onomatopoeia, as they are clearly pronunced as a single sound, and these are counted as English words in our guidelines; while some are defined as snort or grunt, which are pronunced relatively slower and longer, and these are not counted as English word.
 
 
-## Organization of the data
+## Organisation of the data
 
 Basic unit: a single line of lyric</br>
 
@@ -121,13 +133,3 @@ Names of singers and lyricists included in our metadata file to distinguish song
     All lyrics, along with the corresponding singers and lyricists, are collected from the same source. The format of the singers' names, including both the Chinese and English names, follows their respective origins and ensures consistency in our metadata file.
  
 
-## Significance 
-### Cultural Preservation and Transmission
-
-Pop songs can serve as mediums that reflect culture and showcase certain mainstream values of the local community, and Cantopop songs are no exception. Moreover, the annotations marked in the data help in better understanding the characteristics of Cantopop songs. Therefore, we believe that our collection can contribute to the preservation of Hong Kong's culture to some extent.
-
-### Further utilizations: 
-
-Reproduction/Recreation (manual, AI):
-
- Cantopop songs can be recreated by future generations as a nostalgic style, drawing inspiration from the data collected. Furthermore, the data can serve as a valuable resource for AI creation. The utilize of information in our collection, such as the percentage of English words used in Cantopop songs or the word classes of English words used in the lyrics, aid AI to recreate more realistic Cantopop songs. 
