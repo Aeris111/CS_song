@@ -97,17 +97,18 @@ Basic unit: a single line of lyric</br>
 
 ### Organisation of Metadata 
 
-- when there are multiple participants in the '*singer*' and '*lyricist*' column, participants are separated by a comma.
-    > e.g. 李克勤 (Hacken Lee),容祖兒 (Joey Yung)
+When there are multiple participants in the '*singer*' and '*lyricist*' column, participants are separated by a comma.
 
-### Reason of Metadata choices
+> e.g. 李克勤 (Hacken Lee),容祖兒 (Joey Yung)
 
-- Names of singers and lyricists included in our metadata file to distinguish song from others which have the same title.
+#### Reason of Metadata choices
+
+Names of singers and lyricists included in our metadata file to distinguish song from others which have the same title.
 
 ## Source
 
-- The ranking: `Ultimate Song Chart Awards Presentation` from [LemonMusic](https://www.lemonmusic.com.hk/awards.htm)
-- Lyric, metadata: [KKbox](https://www.kkbox.com/tw/tc/search/lyrics)
+1. The ranking as a reference: `Ultimate Song Chart Awards Presentation` from [LemonMusic](https://www.lemonmusic.com.hk/awards.htm)
+2. Lyric, metadata: [KKbox](https://www.kkbox.com/tw/tc/search/lyrics)
  
 
 ### Reason of source choice
